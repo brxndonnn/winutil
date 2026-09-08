@@ -2016,7 +2016,6 @@
     },
     "Overwolf": {
         "category": "Games",
-        "choco": "overwolf",
         "content": "CurseForge",
         "description": "CurseForge is a desktop application for managing mods and modpacks across multiple games, powered by Overwolf.",
         "link": "https://www.overwolf.com/app/overwolf-curseforge",
