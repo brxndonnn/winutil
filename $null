@@ -44,7 +44,7 @@
         "winget": "AIMP.AIMP",
         "foss": false
     },
-   "angryipscanner": {
+    "angryipscanner": {
         "category": "Pro Tools",
         "choco": "angryip",
         "content": "Angry IP Scanner",
@@ -993,7 +993,7 @@
         "category": "Utilities",
         "choco": "tailscale",
         "content": "Tailscale",
-        "description": "The Tailscale client allows you to connect all your devices using WireGuard®, without the hassle. Tailscale makes it as easy as installing an app and signing in.",
+        "description": "The Tailscale client allows you to connect all your devices using WireGuard\u00ae, without the hassle. Tailscale makes it as easy as installing an app and signing in.",
         "link": "https://tailscale.com/",
         "winget": "Tailscale.Tailscale",
         "foss": false
@@ -1053,12 +1053,12 @@
         "foss": true
     },
     "pnpm": {
-    "category": "Development",
-    "content": "pnpm",
-    "description": "pnpm is a fast and disk space efficient package manager for JavaScript and Node.js applications.",
-    "link": "https://pnpm.io/",
-    "winget": "pnpm.pnpm",
-    "foss": true
+        "category": "Development",
+        "content": "pnpm",
+        "description": "pnpm is a fast and disk space efficient package manager for JavaScript and Node.js applications.",
+        "link": "https://pnpm.io/",
+        "winget": "pnpm.pnpm",
+        "foss": true
     },
     "notepadplus": {
         "category": "Multimedia Tools",
@@ -1412,13 +1412,13 @@
         "foss": true
     },
     "qownnotes": {
-      "category": "Document",
-      "choco": "qownnotes",
-      "content": "QOwnNotes",
-      "description": "QOwnNotes is a free open-source note-taking app with Nextcloud/ownCloud integration.",
-      "link": "https://www.qownnotes.org/",
-      "winget": "pbek.QOwnNotes",
-      "foss": true  
+        "category": "Document",
+        "choco": "qownnotes",
+        "content": "QOwnNotes",
+        "description": "QOwnNotes is a free open-source note-taking app with Nextcloud/ownCloud integration.",
+        "link": "https://www.qownnotes.org/",
+        "winget": "pbek.QOwnNotes",
+        "foss": true
     },
     "qtox": {
         "category": "Communications",
@@ -2017,8 +2017,8 @@
     "Overwolf": {
         "category": "Games",
         "choco": "overwolf",
-        "content": "CurseForge",
-        "description": "CurseForge is a desktop application for managing mods and modpacks across multiple games, powered by Overwolf.",
+        "content": "Overwolf",
+        "description": "Popular platform for game overlays and companion apps (mod managers, trackers, etc.), widely used by gamers.",
         "link": "https://www.overwolf.com/app/overwolf-curseforge",
         "winget": "Overwolf.CurseForge",
         "foss": false
@@ -2096,4 +2096,3 @@
         "foss": false
     }
 }
-
